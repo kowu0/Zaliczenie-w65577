@@ -1,0 +1,3 @@
+﻿  Paczka.cpp
+MSVCRTD.lib(exe_main.obj) : error LNK2019: nierozpoznany zewnętrzny symbol _main przywołany w funkcji "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\w65577\Desktop\Zaliczenie_12345\Zaliczenie\Debug\Zaliczenie.exe : fatal error LNK1120: liczba nierozpoznanych elementów zewnętrznych: 1
